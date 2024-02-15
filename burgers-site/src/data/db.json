@@ -1,0 +1,66 @@
+{
+    "hamburguers": [
+        {
+            "Name": "Classic Burger",
+            "Meet_type": "cow",
+            "Sauce": "Ketchup and Mustard"
+        },
+        {
+            "Name": "BBQ Bacon Burger",
+            "Meet_type": "pig",
+            "Sauce": "BBQ Sauce"
+        },
+        {
+            "Name": "Spicy Chicken Burger",
+            "Meet_type": "chicken",
+            "Sauce": "Spicy Mayo"
+        },
+        {
+            "Name": "Mushroom Swiss Burger",
+            "Meet_type": "cow",
+            "Sauce": "Creamy Mushroom Sauce"
+        },
+        {
+            "Name": "Guacamole Turkey Burger",
+            "Meet_type": "turkey",
+            "Sauce": "Guacamole"
+        },
+        {
+            "Name": "Veggie Burger",
+            "Meet_type": "vegetarian",
+            "Sauce": "Tahini Sauce"
+        }
+    ], 
+    "starters": [
+        {
+          "Name": "Garlic Bread",
+          "Quantity": "1 person",
+          "Type": "1 portion"
+        },
+        {
+          "Name": "Mozzarella Sticks",
+          "Quantity": "2 persons",
+          "Type": "1/2 portion"
+        },
+        {
+          "Name": "Spinach and Artichoke Dip",
+          "Quantity": "1 person",
+          "Type": "1 portion"
+        },
+        {
+          "Name": "Bruschetta",
+          "Quantity": "2 persons",
+          "Type": "1/2 portion"
+        },
+        {
+          "Name": "Chicken Wings",
+          "Quantity": "2 persons",
+          "Type": "1 portion"
+        },
+        {
+          "Name": "Shrimp Cocktail",
+          "Quantity": "1 person",
+          "Type": "1/2 portion"
+        }
+      ]
+}

@@ -1,0 +1,35 @@
+.Header{
+    background-color: rgb(236, 173, 91);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.Burger{
+    background-color: rgb(83, 49, 10);
+    margin-bottom: 10px;
+    color : white ;
+}
+
+.title-burgers{
+    background-color: rgb(255, 213, 97);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.Starter{
+    background-color: rgb(83, 49, 10);
+    margin-bottom: 10px;
+    color: white;
+}
+
+.title-starters{
+    background-color: rgb(224, 29, 55);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.Footer{
+    background-color: rgb(236, 173, 91);
+    padding: 20px;
+    margin-top: 10px;
+}
