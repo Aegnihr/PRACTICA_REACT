@@ -4,6 +4,8 @@
 }
 
 .Footer{
+  position: fixed;
+  bottom: 0;
   background-color: #aed2f7;
   padding: 20px;
 }
